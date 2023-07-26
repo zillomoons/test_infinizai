@@ -6,7 +6,7 @@ import { SubHeader } from '../SubHeader';
 
 export const Details = () => {
   return (
-    <section className='container'>
+    <section className='container details'>
       <img src={details_img} alt='' />
       <div>
         <SubHeader />
